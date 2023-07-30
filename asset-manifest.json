@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bebb215e.css",
+    "main.js": "/static/js/main.7b259f78.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cat.gif": "/static/media/cat.8eb5dab711f735737f96.gif",
+    "static/media/Pangolin-Regular.ttf": "/static/media/Pangolin-Regular.df5f537c56b8f162c1d1.ttf",
+    "static/media/YsabeauOffice-VariableFont_wght.ttf": "/static/media/YsabeauOffice-VariableFont_wght.49757fcda42478930be6.ttf",
+    "static/media/bossbaby.png": "/static/media/bossbaby.3af0e75f643f2683afef.png",
+    "static/media/developer.png": "/static/media/developer.bef347730923a691d8da.png",
+    "static/media/Kanit-Bold.ttf": "/static/media/Kanit-Bold.46cd98a815b9874526ad.ttf",
+    "static/media/Kanit-SemiBold.ttf": "/static/media/Kanit-SemiBold.cf86a473ecf932fb0053.ttf",
+    "static/media/Kanit-Regular.ttf": "/static/media/Kanit-Regular.f3bae13d78ced30b6ea3.ttf",
+    "static/media/baby.png": "/static/media/baby.8dd4475a79097ee3f4d3.png",
+    "static/media/school.png": "/static/media/school.bcd373e74f6db4003e37.png",
+    "static/media/iron-man-suit.png": "/static/media/iron-man-suit.f2ebe6d53944539af1b1.png",
+    "static/media/tony-stark.png": "/static/media/tony-stark.63c63d7ba56a4a9e1ee5.png",
+    "static/media/prof.png": "/static/media/prof.5ba41e6492f0442f5e46.png",
+    "static/media/college-student.png": "/static/media/college-student.04bf99b320be5d653d9b.png",
+    "index.html": "/index.html",
+    "main.bebb215e.css.map": "/static/css/main.bebb215e.css.map",
+    "main.7b259f78.js.map": "/static/js/main.7b259f78.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebb215e.css",
+    "static/js/main.7b259f78.js"
+  ]
+}
